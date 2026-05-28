@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Orion specific
+orion_model/
+training_data/
+speech.mp3
+temp.wav
+wake.wav
+*.mp3
+*.wav
+
+# Hugging Face cache
+.cache/
+
+# Large model files
+*.safetensors
+*.bin
