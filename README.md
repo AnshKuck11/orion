@@ -2,7 +2,7 @@
 
 Orion is a Jarvis-inspired AI assistant that runs entirely on your own hardware. No cloud, no API keys, no subscription. Just a locally hosted AI you can have a real conversation with.
 
-I built this because every "Jarvis" video I kept seeing online was just a wrapper around OpenAI or Claude with a fancy UI on top. That always felt like cheating to me. I wanted to build something I actually trained myself, that lives on my machine, and that I understand end to end.
+I built this because every "Jarvis" video I kept seeing online was just a wrapper around OpenAI or Claude with a fancy UI on top. It honestly felt like cheating to me. I wanted to build something I actually trained myself, that lives on my machine, and that I understand end to end.
 
 ## What it does
 
